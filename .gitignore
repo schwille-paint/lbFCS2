@@ -1,12 +1,11 @@
-.gitignore~
 /dist
 /build
-/lbFCS.egg-info
+/lbFCS2.egg-info
+
 README.md~
+.gitignore~
 
 *__pycache__
-
-
 *.ipynb_checkpoints
 *dask-worker-space
 
