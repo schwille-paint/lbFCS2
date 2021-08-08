@@ -11,10 +11,9 @@
 
 <!--- Comments -->
 
-# lbFCS
+# lbFCS2
 
-## Description
-This python package lbFCS+ allows to determine absolute docking strand numbers and local hyridization rates
+This python package lbFCS2 allows to determine absolute docking strand numbers and local hyridization rates
 in individual [DNA-PAINT][dna-paint] clusters requiring only a single [DNA-PAINT][dna-paint] image aquistion.
 It is a revised framework of the previously published [lbFCS][lbfcs-git] package 
 as published in ['Towards absolute molecular numbers in DNA-PAINT'][lbfcs-paper].
@@ -36,7 +35,7 @@ was already used in ['Tracking single particles for hours via continuous DNA-med
 
 The complete installation instructions of the [picasso_addon][picasso_addon-git] and [picasso][picasso] package 
 and creation of the necessary [conda][conda] environment compatible with [picasso_addon][picasso_addon-git],
-[picasso][picasso],[SPT][spt-git] and lbFCS+ can be found here [picasso_addon: Installation instructions][picasso_addon-installation].
+[picasso][picasso], [SPT][spt-git] and lbFCS2 can be found here [picasso_addon: Installation instructions][picasso_addon-installation].
 
 All scripts for simple evaluation of data can be found in [/scripts](/scripts/).
 
