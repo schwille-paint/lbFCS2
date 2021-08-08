@@ -1,0 +1,12 @@
+.gitignore~
+/dist
+/build
+/lbFCS.egg-info
+README.md~
+
+*__pycache__
+
+
+*.ipynb_checkpoints
+*dask-worker-space
+
