@@ -19,7 +19,7 @@ in individual [DNA-PAINT][dna-paint] clusters requiring only a single [DNA-PAINT
 It is a revised framework of the previously published [lbFCS][lbfcs-git] package 
 as published in ['Towards absolute molecular numbers in DNA-PAINT'][lbfcs-paper].
 
-<img src="/docs/figures/fig01.png" alt="principle" width="700">
+<img src="/docs/figures/fig01.png" alt="principle" width="1000">
 
 It is suited for the application to well-separated [DNA-PAINT][dna-paint] localization clusters containing only low 
 molecular numbers of up to six docking strands.
