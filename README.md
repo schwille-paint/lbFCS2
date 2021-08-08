@@ -23,6 +23,8 @@ as published in ['Towards absolute molecular numbers in DNA-PAINT'][lbfcs-paper]
 It is suited for the application to well-separated [DNA-PAINT][dna-paint] localization clusters containing only low 
 molecular numbers of up to six docking strands.
 
+## Pre-requirements
+
 For ... 
 * ... automated localization of the raw images,
 * ... automated undrifting,
