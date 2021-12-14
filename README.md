@@ -8,15 +8,17 @@
 [picasso_addon-installation]: https://picasso-addon.readthedocs.io/en/latest/installation.html
 [spt-git]: https://github.com/schwille-paint/SPT
 [spt-paper]: https://www.nature.com/articles/s41467-021-24223-4
+[lbfcs+-paper]: https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S266707472100032X
 
 <!--- Comments -->
 
 # lbFCS2
 
 This python package lbFCS2 allows to determine absolute docking strand numbers and local hyridization rates
-in individual [DNA-PAINT][dna-paint] clusters requiring only a single [DNA-PAINT][dna-paint] image aquistion.
-It is a revised framework of the previously published [lbFCS][lbfcs-git] package 
-as published in ['Towards absolute molecular numbers in DNA-PAINT'][lbfcs-paper].
+in individual [DNA-PAINT][dna-paint] clusters requiring only a single [DNA-PAINT][dna-paint] image aquistion,
+as published in ['Calibration-free counting of low molecular copy numbers in single DNA-PAINT localization clusters'][lbfcs+-paper].
+It is a revised framework of the [lbFCS][lbfcs-git] package, 
+previously published in ['Towards absolute molecular numbers in DNA-PAINT'][lbfcs-paper].
 
 <img src="/docs/figures/fig01.png" alt="principle" width="1000">
 
